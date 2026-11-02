@@ -1,0 +1,7 @@
+# dados gerados pela extração (não versionar)
+data/
+# ambiente e segredos
+.venv/
+.env
+__pycache__/
+.pytest_cache/
